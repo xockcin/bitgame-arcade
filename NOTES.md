@@ -67,3 +67,5 @@ So there is, let's say, a PageFrame component, which knows what page we're on. I
 I also would like an efficient way to generate the big, repetitive json file that will constitute my content. The best way might just be with a Google Form.
 
 Let's try it out.
+
+Note: A very rudimentary version of the app now works. The code is mostly borrowed from the previous version. I haven't put the forward condition in yet, but that will be easy enough. My one complaint right now is that there are an awful lot of props mucking up my code. I might look into ways of making that nicer for myself before I proceed. But for now, I'm going to stop and fall back to other, simpler projects. Nice work!
